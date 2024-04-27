@@ -502,6 +502,7 @@ Measures used in visualization are:
 
 **Figure 2**
 ![Diversity   Inclusion Image 2](https://github.com/zizou-io/PwC-Power-BI-Project/blob/main/REPORTS/EE.PNG)
+
 and performance ratings, I provided actionable insights to guide the development of effective diversity and inclusion strategies.
 
 This project provided me with the opportunity to showcase my proficiency in Power BI and other digital tools, demonstrating how they can drive efficiency, innovation, and problem-solving within Business Services. By combining technical skills with a deep understanding of client needs, I contributed to our organization's digital transformation journey, enabling data-driven decision-making and fostering a culture of continuous improvement.
