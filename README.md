@@ -30,8 +30,8 @@ Writing DAX
 
 
 
-## Task 2-Call Centre Trends
-Visualizing customer and agent behavior Create a dashboard in Power BI for Call Centre Manager that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset.
+## Task 1-Call Centre Trends
+Visualizing customer and agent behaviour Create a dashboard in Power BI for Call Centre Manager that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset.
 
 
 **•Problem Statement**
@@ -54,7 +54,7 @@ Possible KPIs include (but are not limited to):
 
 **Step 1- Upload Data**
 
-The Dataset used for this analysis was presented by PWC_Switzerland and available at their official website page - [Dataset_link]
+The Dataset used for this analysis was presented by PWC_Switzerland and available at their official website page.
 
 **Step 2-Cleaning data**
 
@@ -124,7 +124,7 @@ As shown by Data Visualization, It can be deduced that:
 
 
 
-## **Task 3-Customer Retention-Customer demographics and insights.**
+## **Task 2-Customer Retention-Customer demographics and insights.**
 
 
 **•Problem Statement**
@@ -322,7 +322,7 @@ Customers with automatic payments.
 ![Customer Risk Analysis Image](https://github.com/zizou-io/PwC-Power-BI-Project/blob/main/REPORTS/CCC.PNG)
 
 
-## **Task-04 Diversity & Inclusion**
+## **Task-3 Diversity & Inclusion**
 
 **•Problem Statement**
 
